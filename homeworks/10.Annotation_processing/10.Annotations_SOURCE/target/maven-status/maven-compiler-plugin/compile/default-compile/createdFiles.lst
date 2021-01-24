@@ -1,0 +1,5 @@
+ru\itis\javalab\HtmlInput.class
+ru\itis\javalab\HtmlForm.class
+META-INF\services\javax.annotation.processing.Processor
+ru\itis\javalab\HtmlProcessor.class
+ru\itis\javalab\User.class

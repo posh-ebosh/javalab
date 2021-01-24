@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>C:\Users\Acer\IdeaProjects\java_lab_2020\homeworks\05\Web Application + Loggin + Filters\src\main\resources\logs.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{dd.MM.yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{20} - %msg%n</pattern>
+        </encoder>
+
+    </appender>
+
+
+    <root level="info">
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>

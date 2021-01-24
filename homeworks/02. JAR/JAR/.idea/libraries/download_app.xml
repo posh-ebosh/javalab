@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="download-app">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/download-app.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
